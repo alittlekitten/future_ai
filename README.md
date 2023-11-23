@@ -1,5 +1,5 @@
 # future_ai 🚀
-- 카카오모빌리티 AI 해커톤 내용을 배포하기 위한 레포지토리입니다 🏄🏼
+- 사내 AI 해커톤 내용을 배포하기 위한 레포지토리입니다 🏄🏼
 - FutureAI라는 이름으로 출품했습니다 (API key와 Endpoint는 제거했습니다)
 - 사용된 이미지는 ChatGPT4를 이용하여 생성된 이미지입니다.
 - 마이크로소프트의 [영문 Azure-Openai 가이드](https://learn.microsoft.com/en-us/javascript/api/overview/azure/openai-readme?view=azure-node-preview)를 참고했습니다.
